@@ -64,7 +64,7 @@ FOR PYTHON:
    It should looks something like C:\Users\blahblahblah
 
 4. Enter the following into the Anaconda Prompt:
-   python3 FD.py
+   python FD.py
 
 5. It should prompt you to open a file. Select the fault distances text file you want and it should output a table for you.
 
