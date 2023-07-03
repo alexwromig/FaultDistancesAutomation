@@ -30,7 +30,7 @@ root.call('wm', 'attributes', '.', '-topmost', True)
 # select file dialog
 file_path = filedialog.askopenfilename()
 
-get_ipython().run_line_magic('gui', 'tk')
+#get_ipython().run_line_magic('gui', 'tk')
 
 
 # # 3: Add Mile Column to Table
