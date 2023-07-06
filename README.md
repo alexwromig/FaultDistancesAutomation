@@ -1,11 +1,16 @@
 # FaultDistancesAutomation
+
 Python script to automate fault distances conversion to miles
 ============================CONTENTS================================
+
 FD.ipynb - Jupyter Notebook version of script, clearer for beginners
+
 FD.py - Python script version, runs to completion in terminal
 
 ==============================SETUP=================================
+
 INSTALL PYTHON!! 
+
 The script requires the python language to run, which you must install first.
 
 Install Python using the below link:
